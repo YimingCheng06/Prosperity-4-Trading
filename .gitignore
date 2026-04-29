@@ -1,0 +1,15 @@
+# Data folders (too large / not source)
+backtests/
+bt_data/
+ROUND_3/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Local Claude Code config
+.claude/
