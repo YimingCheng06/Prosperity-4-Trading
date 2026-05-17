@@ -1,0 +1,11 @@
+# Competition data (large CSVs — not tracked)
+ROUND_5/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
