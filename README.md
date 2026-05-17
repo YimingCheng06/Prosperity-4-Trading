@@ -1,5 +1,13 @@
 # IMC Prosperity — Algorithmic Trading (Rounds 1–5)
 
+<p align="center">
+  <img src="prosperity4-result.png" alt="IMC Prosperity 4 — Finalist Crew" width="640">
+</p>
+
+> ## 🏆 Top 1% Globally
+> **Finalist Crew — IMC Prosperity 4 (2026).** Final global ranking **#321**,
+> with a total PnL of **396,059.96 XIRECs**.
+
 This repository collects a full IMC Prosperity campaign — five trading rounds
 across two planets. Each round's code, documentation, and rules are preserved in
 its own folder; this README is the combined overview.
@@ -70,6 +78,10 @@ universal market-making layer with microprice tilt.
 ---
 
 # IMC Prosperity — 算法交易（第一至第五轮）
+
+> ## 🏆 全球前 1%
+> **Finalist Crew —— IMC Prosperity 4（2026）。** 全球最终排名 **#321**，
+> 总 PnL 为 **396,059.96 XIRECs**。
 
 本仓库收录了一次完整的 IMC Prosperity 参赛过程 —— 跨越两颗星球的五个交易轮。
 每一轮的代码、文档与规则都保存在各自的文件夹中；本 README 是综合总览。
