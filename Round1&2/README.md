@@ -103,6 +103,7 @@ core engine reused and extended in the later rounds of this project.
 | `trader_round2.py` | Round 2 submission (5-layer MM + state machine + trend long) |
 | `Round1-Trading_Groundwork.pdf` | Round 1 official rules |
 | `Round2-Growing_Your_Outpost.pdf` | Round 2 official rules |
+| `submission_logs/<id>.log`, `.json` | Official platform logs for submissions `189866` (R1) and `333599` (R2): order book, fills, PnL curve, final positions |
 
 ---
 
@@ -203,3 +204,4 @@ reservation = 10000
 | `trader_round2.py` | 第二轮提交版（5 层做市 + 状态机 + 趋势做多） |
 | `Round1-Trading_Groundwork.pdf` | 第一轮官方规则 |
 | `Round2-Growing_Your_Outpost.pdf` | 第二轮官方规则 |
+| `submission_logs/<id>.log`、`.json` | 提交 `189866`（第一轮）与 `333599`（第二轮）的平台官方日志：订单簿、成交、PnL 曲线、最终持仓 |

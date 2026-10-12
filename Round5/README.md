@@ -57,6 +57,7 @@ python smoke_test.py
 Backtesting and parameter grid search: open `backtest_round5.ipynb` in Colab.
 
 > Competition CSVs (`ROUND_5/`, ~110 MB) are not version-controlled — fetch them separately.
+> A public copy lives in [imc-prosperity-4-backtester](https://github.com/xeeshan85/imc-prosperity-4-backtester/tree/main/prosperity4bt/resources/round5); place the files in `Round5/ROUND_5/`.
 
 ## API
 
@@ -121,6 +122,7 @@ python smoke_test.py
 回测与参数网格搜索：在 Colab 中打开 `backtest_round5.ipynb`。
 
 > 比赛数据 CSV（`ROUND_5/`，约 110 MB）未纳入版本控制，需另行获取。
+> 公开副本见 [imc-prosperity-4-backtester](https://github.com/xeeshan85/imc-prosperity-4-backtester/tree/main/prosperity4bt/resources/round5)，下载后放入 `Round5/ROUND_5/`。
 
 ## API
 
